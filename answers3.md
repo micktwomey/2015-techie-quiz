@@ -1,4 +1,5 @@
 # 🎉 Round 3
+# Answers
 
 ---
 
@@ -101,7 +102,3 @@
 ---
 
 # E.T. the Extra-Terrestrial
-
----
-
-# Round 3 Finished

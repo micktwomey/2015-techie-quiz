@@ -58,6 +58,7 @@
 ---
 
 # VW - Volkswagen
+![](images/2000px-Volkswagen_logo_2012.png)
 
 ---
 
@@ -89,7 +90,3 @@
 # Eircode
 
 ## Validate it via https://finder.eircode.ie/
-
----
-
-# Round 1 Finished
