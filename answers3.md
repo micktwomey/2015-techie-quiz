@@ -77,6 +77,8 @@
 
 # €20
 
+![left fit](images/Caitriona_on_Twitter___20_EUR_for_this__I_m_livid___websummit__foodgate_https___t_co_QGtHaoZBXK_.png)
+
 ---
 
 ## Name the musical comedy miniseries that starred Felicia Day, Nathan Fillion and Neil Patrick Harris
@@ -84,6 +86,8 @@
 ---
 
 # Dr. Horrible's Sing-Along Blog
+
+![left](images/bad_horse.gif)
 
 ---
 
